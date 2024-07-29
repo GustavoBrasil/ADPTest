@@ -49,7 +49,7 @@ Feel free to show any other automation scenarios you find relevant!
 - The machine must have [NodeJS](https://nodejs.org/en/download/prebuilt-installer/current) version >= 22.5.1 and NPM >= 10.8.2
 
 # How to Run
-- Make [Download](https://github.com/GustavoBrasil/ADPTest/archive/refs/heads/main.zip) or clone the project
+- [Download](https://github.com/GustavoBrasil/ADPTest/archive/refs/heads/main.zip) or clone the project
 - Open your IDE
 - Open the project folder inside your IDE
 - Open a terminal **(Make sure the terminal path is pointing to the project)**
