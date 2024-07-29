@@ -35,14 +35,14 @@ Feel free to show any other automation scenarios you find relevant!
 - Use of industry best practices
 
 ## Evaluation Bonus (nice to have)
-- A reviewer should be able to run the solution in headless mode ![Success](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/check-mark-button_2705.png)
-- Use of Page Objects ![Success](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/check-mark-button_2705.png)
-- Performance optimization ![Success](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/check-mark-button_2705.png)
-- Parallelism ![Success](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/check-mark-button_2705.png)
-- Log all errors ![Attention](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/warning_26a0-fe0f.png)
-- Export results to reporting tools ![Success](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/check-mark-button_2705.png)
-- Use of SOLID principles ![Failure](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/cross-mark_274c.png)
-- Report any bugs or issues you find (there shouldn't be any, but who knows) ![Attention](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/warning_26a0-fe0f.png)
+- A reviewer should be able to run the solution in headless mode 
+- Use of Page Objects 
+- Performance optimization 
+- Parallelism 
+- Log all errors 
+- Export results to reporting tools 
+- Use of SOLID principles 
+- Report any bugs or issues you find (there shouldn't be any, but who knows) 
 
 # Prerequisites
 
